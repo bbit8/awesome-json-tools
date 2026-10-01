@@ -101,7 +101,7 @@ A curated collection of **free, instant, browser-based developer tools** for JSO
 
 ## 📄 License
 
-All tools are free to use. No attribution required.
+This project is licensed under the [MIT License](LICENSE) — free to use, modify, and distribute. No attribution required.
 
 ---
 
