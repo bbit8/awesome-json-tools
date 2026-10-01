@@ -1,5 +1,11 @@
 # Awesome JSON Tools
 
+[![Website](https://img.shields.io/badge/🌐_Website-jsonformat.org-00e5b8?style=flat-square)](https://jsonformat.org)
+[![Tools](https://img.shields.io/badge/Tools-34+-blue?style=flat-square)](https://jsonformat.org)
+[![Languages](https://img.shields.io/badge/Languages-9-orange?style=flat-square)](https://jsonformat.org)
+[![License](https://img.shields.io/badge/License-Free_to_Use-green?style=flat-square)](#license)
+[![Privacy](https://img.shields.io/badge/Privacy-100%25_Client--Side-red?style=flat-square)](https://jsonformat.org)
+
 A curated collection of **free, instant, browser-based developer tools** for JSON formatting, data conversion, encoding, security, and more. All tools run 100% client-side — no uploads, no login, no data leaves your browser.
 
 **🌐 Live Site:** [jsonformat.org](https://jsonformat.org)
